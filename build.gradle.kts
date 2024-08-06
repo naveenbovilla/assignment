@@ -38,3 +38,9 @@ kotlin {
 tasks.withType<Test> {
     useJUnitPlatform()
 }
+
+tasks {
+    bootRun {
+        mainClass.set("com.example.assignment.AssignmentApplicationKt")
+    }
+}

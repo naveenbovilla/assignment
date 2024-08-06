@@ -60,7 +60,7 @@ class MarkupService {
                             0
                         )
                     } else {
-                        tempBuilder.append("---\n").append(line)
+                        tempBuilder.append("\n").append(line)
                     }
                     isTagClosed = false
                 }

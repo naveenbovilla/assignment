@@ -1,5 +1,12 @@
 # Sample Document
 
 Hello!
+you there
+Its the link [Mailchimp](https://www.mailchimp.com)
+
+[Mailchimp](https://www.mailchimp.com)
+
+### [Mailchimp](https://www.mailchimp.com)
+
 
 This is sample markdown for the [Mailchimp](https://www.mailchimp.com) homework assignment.
